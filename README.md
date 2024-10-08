@@ -18,7 +18,7 @@ At Project Starfire, we understand that every business has unique needs. Whether
 
 Here you’ll find a selection of our open-source projects, tools, and resources. We believe in sharing knowledge and contributing to the developer community.
 
-- StarfirePanel (WIP) - StarfirePanel is a custom game hosting control panel currently under development, designed to streamline the management of game servers. Built on the robust Pterodactyl framework, StarfirePanel is fully customized to meet the specific needs of our clients, offering a user-friendly interface and powerful features tailored for both novice users and experienced server administrators.
+- [StarfirePanel](https://github.com/projectstarfire/starfirepanel) (WIP) - StarfirePanel is a custom game hosting control panel currently under development, designed to streamline the management of game servers. Built on the robust Pterodactyl framework, StarfirePanel is fully customized to meet the specific needs of our clients, offering a user-friendly interface and powerful features tailored for both novice users and experienced server administrators.
 
 
 ## 📈 Get Involved
